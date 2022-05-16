@@ -1,2 +1,1 @@
-# Mumbai
-Delhi is too hot nowadays
+Delhi is not hot
